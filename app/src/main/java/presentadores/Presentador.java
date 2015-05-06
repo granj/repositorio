@@ -9,4 +9,8 @@ public class Presentador {
         int i;
         i = 0;
     }
+
+    public boolean Login(){
+        return true;
+    }
 }
